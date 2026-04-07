@@ -9,3 +9,8 @@
     filter: brightness(0.6);
 
 }
+
+.overview {
+    height: 180px;
+    background-color: rgb(205, 203, 203);
+}
